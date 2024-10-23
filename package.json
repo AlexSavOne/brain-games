@@ -2,10 +2,13 @@
   "name": "@hexlet/code",
   "version": "1.0.0",
   "description": "[![Actions Status](https://github.com/AlexSavOne/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/AlexSavOne/frontend-project-44/actions)",
-  "type": "module",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "brain-games": "bin/brain-games.js"
   },
   "author": "AlexSav",
   "license": "ISC"
