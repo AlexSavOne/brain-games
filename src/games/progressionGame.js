@@ -11,7 +11,7 @@ const generateRound = () => {
     progression.push(start + i * step);
   }
 
-  const hiddenIndex = getRandomInt(0, progressionLength);
+  const hiddenIndex = getRandomInt(0, progressionLength - 1);
   const correctAnswer = String(progression[hiddenIndex]);
   progression[hiddenIndex] = '..';
 
