@@ -53,6 +53,12 @@
 
 [![asciicast](https://asciinema.org/a/odHJxU1shxXASCtBBElxgFK1B.svg)](https://asciinema.org/a/odHJxU1shxXASCtBBElxgFK1B)
 
+#### Планы на улучшение
+
+1. **Добавление новых игр**: Расширить набор игр, включая новые концепции и механики, чтобы повысить интерес пользователей.
+
+2. **Интерактивная статистика**: Реализовать систему отслеживания результатов игр, позволяющую пользователям видеть свой прогресс и достижения.
+
 ### Hexlet tests and linter status:
 
 [![Actions Status](https://github.com/AlexSavOne/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/AlexSavOne/frontend-project-44/actions)
